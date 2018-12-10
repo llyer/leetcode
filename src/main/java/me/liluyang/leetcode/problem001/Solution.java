@@ -3,7 +3,7 @@ package me.liluyang.leetcode.problem001;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-class Solution {
+public class Solution {
     public static void main(String[] args) {
         int[] arr = {2,7,11,15};
         twoSum(arr, 9);

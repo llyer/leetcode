@@ -11,7 +11,7 @@ package me.liluyang.leetcode.problem007;
  *
  * 所以在溢出之前要对溢出进行判断
  */
-class Solution {
+public class Solution {
 
     public static int reverse(int x) {
         int result = 0;

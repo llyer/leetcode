@@ -1,6 +1,6 @@
 package me.liluyang.leetcode.problem112;
 
-class Solution {
+public class Solution {
     public static void main(String[] args) {
 //        System.out.println(isPalindrome(123));
     }
