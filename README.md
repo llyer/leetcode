@@ -16,6 +16,16 @@
 - 问题连接：[https://leetcode.com/problems/palindrome-number/](https://leetcode.com/problems/palindrome-number/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem009/Solution.java)
 
+#### 13. Roman to Integer（罗马数字转整数）
+- 问题连接：[https://leetcode.com/problems/roman-to-integer/](https://leetcode.com/problems/roman-to-integer/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem013/Solution.java)
+
+#### 14. Longest Common Prefix（最长公共前缀）
+- 问题连接：[https://leetcode.com/problems/longest-common-prefix/](https://leetcode.com/problems/longest-common-prefix/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem014/Solution.java)
+
+
+
 #### 112. Path Sum（判断二叉树是否存在一条从根节点到叶子节点的路径，并且这条路径加起来等于给定的参数 sum）
 - 问题连接：[https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem112/Solution.java)
