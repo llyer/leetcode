@@ -3,7 +3,7 @@ package me.liluyang.leetcode.problem088;
 import java.util.Arrays;
 
 /**
- * https://leetcode.com/problems/merge-two-sorted-lists/
+ * https://leetcode.com/problems/merge-sorted-array/
  * <p>
  * 合并两个有序数组，合并后仍然有序
  */

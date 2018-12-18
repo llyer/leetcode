@@ -1,14 +1,9 @@
 package me.liluyang.leetcode.problem389;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
 import java.util.LinkedList;
 
 /**
- * https://leetcode.com/problems/distribute-candies/
- * <p>
- * 575. Distribute Candies
+ * https://leetcode.com/problems/find-the-difference/
  */
 public class Solution {
 
@@ -44,7 +39,6 @@ public class Solution {
     /**
      * 找不同，找出字符串 t 中比 s 多出来的一个字符
      * 思路：需要在遍历的时候删除元素，这在写代码的过程中好像是大忌
-     *
      * 链表来存储数据，并且在比较时删除两个链表里面相同的元素，留下来的就是剩下的元素。链表，增删快一点，但是相对用 ASCII 还是慢了很多
      * @param s
      * @param t

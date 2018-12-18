@@ -1,8 +1,5 @@
 package me.liluyang.leetcode.problem559;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
  * <p>

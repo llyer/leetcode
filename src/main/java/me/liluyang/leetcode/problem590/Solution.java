@@ -5,9 +5,6 @@ import java.util.List;
 
 /**
  * https://leetcode.com/problems/n-ary-tree-postorder-traversal/
- * <p>
- * 590. N-ary Tree Postorder Traversal
- *
  *
  */
 public class Solution {

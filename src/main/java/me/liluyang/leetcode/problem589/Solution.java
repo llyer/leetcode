@@ -3,10 +3,7 @@ package me.liluyang.leetcode.problem589;
 import java.util.*;
 
 /**
- * https://leetcode.com/problems/merge-two-binary-trees/
- * <p>
- * 589. N-ary Tree Preorder Traversal N叉树前序遍历
- *
+ * https://leetcode.com/problems/n-ary-tree-preorder-traversal/
  *
  */
 public class Solution {

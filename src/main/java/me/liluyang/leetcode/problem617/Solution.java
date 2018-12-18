@@ -2,8 +2,7 @@ package me.liluyang.leetcode.problem617;
 
 /**
  * https://leetcode.com/problems/merge-two-binary-trees/
- * <p>
- * 860. 合并两个二叉树
+ *
  */
 public class Solution {
 

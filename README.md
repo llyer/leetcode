@@ -24,12 +24,90 @@
 - 问题连接：[https://leetcode.com/problems/longest-common-prefix/](https://leetcode.com/problems/longest-common-prefix/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem014/Solution.java)
 
+#### 20. Valid Parentheses
+- 问题连接：[https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem020/Solution.java)
+
+#### 21. Merge Two Sorted Lists
+- 问题连接：[https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem021/Solution.java)
+
+#### 26. Remove Duplicates from Sorted Array
+- 问题连接：[https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem026/Solution.java)
+
+#### 58. Length of Last Word
+- 问题连接：[https://leetcode.com/problems/length-of-last-word/](https://leetcode.com/problems/length-of-last-word/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem058/Solution.java)
+
+#### 88. Merge Sorted Array
+- 问题连接：[https://leetcode.com/problems/merge-sorted-array/](https://leetcode.com/problems/merge-sorted-array/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem088/Solution.java)
+
 
 
 #### 112. Path Sum（判断二叉树是否存在一条从根节点到叶子节点的路径，并且这条路径加起来等于给定的参数 sum）
 - 问题连接：[https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem112/Solution.java)
 
+#### 125. Valid Palindrome
+- 问题连接：[https://leetcode.com/problems/valid-palindrome/](https://leetcode.com/problems/valid-palindrome/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem125/Solution.java)
+
+
+
+#### 290. Word Pattern
+- 问题连接：[https://leetcode.com/problems/word-pattern/](https://leetcode.com/problems/word-pattern/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem290/Solution.java)
+
 #### 344. Reverse String（反转字符串）
 - 问题连接：[https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/reverse-string/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem344/Solution.java)
+
+#### 389. Find the Difference
+- 问题连接：[https://leetcode.com/problems/find-the-difference/](https://leetcode.com/problems/find-the-difference/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem389/Solution.java)
+
+
+
+#### 559. Maximum Depth of N-ary Tree
+- 问题连接：[https://leetcode.com/problems/maximum-depth-of-n-ary-tree/](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem559/Solution.java)
+
+#### 575. Distribute Candies
+- 问题连接：[https://leetcode.com/problems/distribute-candies/](https://leetcode.com/problems/distribute-candies/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem575/Solution.java)
+
+#### 589. N-ary Tree Preorder Traversal N叉树前序遍历
+- 问题连接：[https://leetcode.com/problems/n-ary-tree-preorder-traversal/](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem589/Solution.java)
+
+#### 590. N-ary Tree Postorder Traversal
+- 问题连接：[https://leetcode.com/problems/n-ary-tree-postorder-traversal/](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem590/Solution.java)
+
+
+
+#### 617. Merge Two Binary Trees
+- 问题连接：[https://leetcode.com/problems/merge-two-binary-trees/](https://leetcode.com/problems/merge-two-binary-trees/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem617/Solution.java)
+
+#### 700. Search in a Binary Search Tree
+- 问题连接：[https://leetcode.com/problems/search-in-a-binary-search-tree/](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem700/Solution.java)
+
+#### 739. Daily Temperatures 每日温度
+- 问题连接：[https://leetcode.com/problems/daily-temperatures/](https://leetcode.com/problems/daily-temperatures/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem739/Solution.java)
+
+#### 771. Jewels and Stones 宝石和石头
+- 问题连接：[https://leetcode.com/problems/jewels-and-stones/](https://leetcode.com/problems/jewels-and-stones/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem771/Solution.java)
+
+#### 781. Rabbits in Forest
+- 问题连接：[https://leetcode.com/problems/rabbits-in-forest/](https://leetcode.com/problems/rabbits-in-forest/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem781/Solution.java)
+
+#### 860. Lemonade Change 柠檬水找零
+- 问题连接：[https://leetcode-cn.com/problems/lemonade-change/description/](https://leetcode-cn.com/problems/lemonade-change/description/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem860/Solution.java)
