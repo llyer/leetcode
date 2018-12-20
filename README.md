@@ -2,7 +2,14 @@
 
 本项目是本人在 `leetcode` 学习算法时代码的保留副本。以下的各个问题的示例代码中包含了简单解决思路。
 
+### 动态规划教程
+
+https://www.youtube.com/watch?v=Jakbj4vaIbE
+
+问题：198：https://leetcode.com/problems/house-robber/
+
 ### 已解决问题列表
+
 
 #### 1. Two Sum（两数之和）
 - 问题连接：[https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
@@ -53,6 +60,10 @@
 #### 125. Valid Palindrome
 - 问题连接：[https://leetcode.com/problems/valid-palindrome/](https://leetcode.com/problems/valid-palindrome/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem125/Solution.java)
+
+#### 198. House Robber
+- 问题连接：[https://leetcode.com/problems/house-robber/](https://leetcode.com/problems/house-robber/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem198/Solution.java)
 
 
 
@@ -111,3 +122,8 @@
 #### 860. Lemonade Change 柠檬水找零
 - 问题连接：[https://leetcode-cn.com/problems/lemonade-change/description/](https://leetcode-cn.com/problems/lemonade-change/description/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem860/Solution.java)
+
+
+#### 905. Sort Array By Parity 按奇偶排序数组
+- 问题连接：[https://leetcode.com/problems/sort-array-by-parity/submissions/](https://leetcode.com/problems/sort-array-by-parity/submissions/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem905/Solution.java)
