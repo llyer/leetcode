@@ -61,6 +61,10 @@ https://www.youtube.com/watch?v=Jakbj4vaIbE
 - 问题连接：[https://leetcode.com/problems/valid-palindrome/](https://leetcode.com/problems/valid-palindrome/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem125/Solution.java)
 
+#### 155. Min Stack
+- 问题连接：[https://leetcode.com/problems/min-stack/](https://leetcode.com/problems/min-stack/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem155/MinStack.java)
+
 #### 198. House Robber
 - 问题连接：[https://leetcode.com/problems/house-robber/](https://leetcode.com/problems/house-robber/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem198/Solution.java)
