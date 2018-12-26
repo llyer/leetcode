@@ -127,3 +127,8 @@ https://www.youtube.com/watch?v=Jakbj4vaIbE
 #### 905. Sort Array By Parity 按奇偶排序数组
 - 问题连接：[https://leetcode.com/problems/sort-array-by-parity/submissions/](https://leetcode.com/problems/sort-array-by-parity/submissions/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem905/Solution.java)
+
+
+#### 953. Verifying an Alien Dictionary 验证外星语词典
+- 问题连接：[https://leetcode.com/problems/verifying-an-alien-dictionary/](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem953/Solution.java)
