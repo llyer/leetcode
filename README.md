@@ -2,6 +2,11 @@
 
 本项目是本人在 `leetcode` 学习算法时代码的保留副本。以下的各个问题的示例代码中包含了简单解决思路。
 
+- leetcode 英文源站 https://leetcode.com
+
+- leetcode 中文网站 https://leetcode-cn.com
+
+
 ### 动态规划教程
 
 https://www.youtube.com/watch?v=Jakbj4vaIbE
@@ -106,6 +111,11 @@ https://www.youtube.com/watch?v=Jakbj4vaIbE
 #### 617. Merge Two Binary Trees
 - 问题连接：[https://leetcode.com/problems/merge-two-binary-trees/](https://leetcode.com/problems/merge-two-binary-trees/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem617/Solution.java)
+
+
+#### 690. Employee Importance
+- 问题连接：[https://leetcode.com/problems/employee-importance/](https://leetcode.com/problems/employee-importance/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem690/Solution.java)
 
 #### 700. Search in a Binary Search Tree
 - 问题连接：[https://leetcode.com/problems/search-in-a-binary-search-tree/](https://leetcode.com/problems/search-in-a-binary-search-tree/)
