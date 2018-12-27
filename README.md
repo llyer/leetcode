@@ -7,14 +7,19 @@
 - leetcode 中文网站 https://leetcode-cn.com
 
 
-### 动态规划教程
+### 动态规划
 
-https://www.youtube.com/watch?v=Jakbj4vaIbE
+视频教程，一个UP做的，比较基础，但是讲的很好：
 
-问题：198：https://leetcode.com/problems/house-robber/
+- youtube: https://www.youtube.com/watch?v=Jakbj4vaIbE
 
-### 已解决问题列表
+- 哔哩哔哩：https://www.bilibili.com/video/av16544031
 
+动态规划问题列表：
+
+- 198：https://leetcode.com/problems/house-robber/
+
+### 已解决问题
 
 #### 1. Two Sum（两数之和）
 - 问题连接：[https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
