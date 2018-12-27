@@ -1,4 +1,4 @@
-# leetcode problems java demo code
+# leetcode 算法题解（Java语言）
 
 本项目是本人在 `leetcode` 学习算法时代码的保留副本。以下的各个问题的示例代码中包含了简单解决思路。
 
@@ -6,6 +6,7 @@
 
 - leetcode 中文网站 https://leetcode-cn.com
 
+## 问题分类：
 
 ### 动态规划
 
@@ -17,7 +18,7 @@
 
 动态规划问题列表：
 
-- 198：https://leetcode.com/problems/house-robber/
+- [198](#198-house-robber)
 
 ### 已解决问题
 
