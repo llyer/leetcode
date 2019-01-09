@@ -18,6 +18,10 @@
 
 动态规划问题列表：
 
+<!-- 
+    此处使用了 github 支持的锚点写法。
+    教程地址：https://my.oschina.net/antsky/blog/1475173?utm_medium=referral
+ -->
 - [198](#198-house-robber)
 
 ### 已解决问题
