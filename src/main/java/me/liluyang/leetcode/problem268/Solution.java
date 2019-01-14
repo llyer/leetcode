@@ -10,6 +10,8 @@ public class Solution {
      *
      * 解题思路： result = （1 + 2 + 3 + 。。。。 + n ) - 数组元素之和
      *
+     * 备注：这道题和 leetcode448 有一点相似，但是 448 要更复杂一点，448 的解决办法更复杂一点，并且可以兼容这一题
+     *
      * @param nums
      * @return
      */
