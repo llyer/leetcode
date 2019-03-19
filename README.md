@@ -58,6 +58,15 @@
 - 问题连接：[https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem026/Solution.java)
 
+#### 28. 实现strStr()
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/28.实现str-str.java)
+
+#### 35. 搜索插入位置.java
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/35.搜索插入位置.java)
+
+#### 53. 最大子序和.java
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/53.最大子序和.java)
+
 #### 58. Length of Last Word
 - 问题连接：[https://leetcode.com/problems/length-of-last-word/](https://leetcode.com/problems/length-of-last-word/)
 - 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem058/Solution.java)
