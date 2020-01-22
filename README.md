@@ -28,12 +28,35 @@
 
 title | title
 --- | ---
-[001. Two Sum（两数之和）](./src/main/java/me/liluyang/leetcode/problem001/Solution.java) | [007. Reverse Integer（反转整数数字）](./src/main/java/me/liluyang/leetcode/problem007/Solution.java)
-[204](./src/main/java/me/liluyang/leetcode/Solution204.java) | [485](./src/main/java/me/liluyang/leetcode/Solution485.java)
-[507](./src/main/java/me/liluyang/leetcode/Solution507.java) | [633](./src/main/java/me/liluyang/leetcode/Solution633.java)
-[643](./src/main/java/me/liluyang/leetcode/Solution643.java) | [835](./src/main/java/me/liluyang/leetcode/Solution835.java)
-[1180](./src/main/java/me/liluyang/leetcode/Solution1180.java) | ----
+[001](./src/main/java/me/liluyang/leetcode/problem001/Solution.java) | [007](./src/main/java/me/liluyang/leetcode/problem007/Solution.java)
+[009](./src/main/java/me/liluyang/leetcode/problem009/Solution.java) | [013](./src/main/java/me/liluyang/leetcode/problem013/Solution.java)
+[014](./src/main/java/me/liluyang/leetcode/problem014/Solution.java) | [020](./src/main/java/me/liluyang/leetcode/problem020/Solution.java)
+[021](./src/main/java/me/liluyang/leetcode/problem021/Solution.java) | [026](./src/main/java/me/liluyang/leetcode/problem026/Solution.java)
+[028](./src/main/java/me/liluyang/leetcode/28.实现str-str.java) | [035](./src/main/java/me/liluyang/leetcode/35.搜索插入位置.java)
+[053](./src/main/java/me/liluyang/leetcode/53.最大子序和.java) | [058](./src/main/java/me/liluyang/leetcode/problem058/Solution.java)
+[088](./src/main/java/me/liluyang/leetcode/problem088/Solution.java) | [112](./src/main/java/me/liluyang/leetcode/problem112/Solution.java)
+[125](./src/main/java/me/liluyang/leetcode/problem125/Solution.java) | [155](./src/main/java/me/liluyang/leetcode/problem155/MinStack.java)
+[198](./src/main/java/me/liluyang/leetcode/problem198/Solution.java) | [204](./src/main/java/me/liluyang/leetcode/Solution204.java)
+[290](./src/main/java/me/liluyang/leetcode/problem290/Solution.java) | [344](./src/main/java/me/liluyang/leetcode/problem344/Solution.java)
+[389](./src/main/java/me/liluyang/leetcode/problem389/Solution.java) | [485](./src/main/java/me/liluyang/leetcode/Solution485.java)
+[507](./src/main/java/me/liluyang/leetcode/Solution507.java) | [559](./src/main/java/me/liluyang/leetcode/problem559/Solution.java)
+[575](./src/main/java/me/liluyang/leetcode/problem575/Solution.java) | [589](./src/main/java/me/liluyang/leetcode/problem589/Solution.java)
+[590](./src/main/java/me/liluyang/leetcode/problem590/Solution.java) | [633](./src/main/java/me/liluyang/leetcode/Solution633.java)
+[617](./src/main/java/me/liluyang/leetcode/problem617/Solution.java) | [643](./src/main/java/me/liluyang/leetcode/Solution643.java) 
+[690](./src/main/java/me/liluyang/leetcode/problem690/Solution.java) | [700](./src/main/java/me/liluyang/leetcode/problem700/Solution.java)
+[739](./src/main/java/me/liluyang/leetcode/problem739/Solution.java) | [771](./src/main/java/me/liluyang/leetcode/problem771/Solution.java)
+[781](./src/main/java/me/liluyang/leetcode/problem781/Solution.java) | [835](./src/main/java/me/liluyang/leetcode/Solution835.java)
+[860](./src/main/java/me/liluyang/leetcode/problem860/Solution.java)| [905](./src/main/java/me/liluyang/leetcode/problem905/Solution.java)
+[953](./src/main/java/me/liluyang/leetcode/problem953/Solution.java) | [1180](./src/main/java/me/liluyang/leetcode/Solution1180.java)
 
+
+#### 1. Two Sum（两数之和） 
+- 问题连接：[https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem001/Solution.java)
+
+#### 7. Reverse Integer（反转整数数字）
+- 问题连接：[https://leetcode.com/problems/reverse-integer/](https://leetcode.com/problems/reverse-integer/)
+- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem007/Solution.java)
 
 #### 9. Palindrome Number（回文数字）
 - 问题连接：[https://leetcode.com/problems/palindrome-number/](https://leetcode.com/problems/palindrome-number/)
