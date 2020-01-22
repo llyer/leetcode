@@ -26,33 +26,14 @@
 
 ### 已解决问题
 
-标题 | 标题
+- | -
 --- | ---
+[001. Two Sum（两数之和）](./src/main/java/me/liluyang/leetcode/problem001/Solution.java) | [007. Reverse Integer（反转整数数字）](./src/main/java/me/liluyang/leetcode/problem007/Solution.java)
 [204](./src/main/java/me/liluyang/leetcode/Solution204.java) | [485](./src/main/java/me/liluyang/leetcode/Solution485.java)
 [507](./src/main/java/me/liluyang/leetcode/Solution507.java) | [633](./src/main/java/me/liluyang/leetcode/Solution633.java)
+[643](./src/main/java/me/liluyang/leetcode/Solution643.java) | [835](./src/main/java/me/liluyang/leetcode/Solution835.java)
+[1180](./src/main/java/me/liluyang/leetcode/Solution1180.java) | -
 
-
-- [204](./src/main/java/me/liluyang/leetcode/Solution204.java)
-
-- [485](./src/main/java/me/liluyang/leetcode/Solution485.java)
-
-- [507](./src/main/java/me/liluyang/leetcode/Solution507.java)
-
-- [633](./src/main/java/me/liluyang/leetcode/Solution633.java)
-
-- [643](./src/main/java/me/liluyang/leetcode/Solution643.java)
-
-- [835](./src/main/java/me/liluyang/leetcode/Solution835.java)
-
-- [1180](./src/main/java/me/liluyang/leetcode/Solution1180.java)
-
-#### 1. Two Sum（两数之和）
-- 问题连接：[https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
-- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem001/Solution.java)
-
-#### 7. Reverse Integer（反转整数数字）
-- 问题连接：[https://leetcode.com/problems/reverse-integer/](https://leetcode.com/problems/reverse-integer/)
-- 示例代码：[点我](./src/main/java/me/liluyang/leetcode/problem007/Solution.java)
 
 #### 9. Palindrome Number（回文数字）
 - 问题连接：[https://leetcode.com/problems/palindrome-number/](https://leetcode.com/problems/palindrome-number/)
