@@ -1,4 +1,4 @@
-package me.liluyang.leetcode.problem007;
+package me.liluyang.leetcode;
 
 /**
  * https://leetcode.com/problems/reverse-integer/
@@ -11,7 +11,7 @@ package me.liluyang.leetcode.problem007;
  *
  * 所以在溢出之前要对溢出进行判断
  */
-public class Solution {
+public class Solution07 {
 
     public static int reverse(int x) {
         int result = 0;

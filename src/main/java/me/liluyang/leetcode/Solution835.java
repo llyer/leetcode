@@ -8,7 +8,7 @@ public class Solution835 {
      *
      * 我们可以假设两个二维数组为 A，B。我们让A静止，B可以随意的移动
      *
-     * 假设数组的长度为2，那么B相对A的偏移量有[0,0] [0,1] [1,0] [1,1]
+     * 假设数组的长度为2，那么B相对A的偏移量有[0,0] 不偏移 [0,1] 乡下偏移 [1,0]  [1,1]
      *                                      [-0,-0] [-0,-1] [-1,-0] [-1,-1]
      * 假设数组的长度为3，那么B相对A的偏移量有[0,0] [0,1] [0,2] [1,0] [1,1] [1,2] [2,0] [2,1] [2,2]
      *                                      [-0,-0] [-0,-1] [-0,-2] [-1,-0] [-1,-1] [-1,-2] [-2,-0] [-2,-1] [-2,-2]
@@ -31,6 +31,8 @@ public class Solution835 {
     public static int largestOverlap(int[][] A, int[][] B) {
         Integer length = A.length;
         Integer max = 0;
+
+        // 遍历所有偏移情况
         for (int offsetX = 0; offsetX < length; offsetX++) {
             for (int offsetY = 0; offsetY < length; offsetY++) {
                 int count1 = 0;
@@ -42,6 +44,43 @@ public class Solution835 {
 
                         // 第二个矩阵B相对A向左偏移
                         if (A[i][j] == B[i + offsetX][j + offsetY] && A[i][j] == 1) count2++;
+                    }
+                }
+                System.out.println(count1 + " " + count2);
+                max = Math.max(Math.max(count1, count2), max);
+            }
+        }
+        return max;
+    }
+
+
+    /**
+     * 方法二
+     *
+     * @param A
+     * @param B
+     * @return
+     */
+    public static int largestOverlap2(int[][] A, int[][] B) {
+        Integer length = A.length;
+        Integer max = 0;
+
+        // 遍历所有偏移情况
+        for (int offsetX = -A.length + 1; offsetX < length; offsetX++) {
+            for (int offsetY = -A.length + 1; offsetY < length; offsetY++) {
+                int count1 = 0;
+                int count2 = 0;
+                for (int i = 0; i + offsetX < length; i++) {
+                    for (int j = 0; j + offsetY < length; j++) {
+                        if (i < 0 || i >= length) continue;
+                        if (j < 0 || j >= length) continue;
+                        if (i + offsetX < 0 || i + offsetX >=length) continue;
+                        if (j + offsetY < 0 || j + offsetY >=length) continue;
+                        // 第二个矩阵B相对A向右偏移
+                        if (A[i + offsetX][j + offsetY] == B[i][j] && B[i][j] == 1) count1++;
+
+                        // 第二个矩阵B相对A向左偏移
+                        // if (A[i][j] == B[i + offsetX][j + offsetY] && A[i][j] == 1) count2++;
                     }
                 }
                 System.out.println(count1 + " " + count2);

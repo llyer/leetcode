@@ -1,14 +1,6 @@
-package me.liluyang.leetcode.problem001;
+package me.liluyang.leetcode;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-
-public class Solution {
-    public static void main(String[] args) {
-        int[] arr = {2,7,11,15};
-        twoSum(arr, 9);
-    }
-
+public class Solution01 {
 
     /**
      * nums 是一个数组，target 是结果，数组里面必定存在两个数字加起来等于 target
@@ -30,5 +22,10 @@ public class Solution {
             }
         }
         return null;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {2,7,11,15};
+        twoSum(arr, 9);
     }
 }

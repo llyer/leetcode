@@ -1,13 +1,6 @@
-package me.liluyang.leetcode.problem009;
+package me.liluyang.leetcode;
 
-public class Solution {
-    public static void main(String[] args) {
-        System.out.println(isPalindrome(123));
-        System.out.println(isPalindrome(-121));
-        System.out.println(isPalindrome(121));
-    }
-
-
+public class Solution09 {
     /**
      * 判断一个整数是否是回文数字 121，12321是，123 1234不是
      *
@@ -30,4 +23,11 @@ public class Solution {
         if (result == origin) return true;
         return false;
     }
+
+    public static void main(String[] args) {
+        System.out.println(isPalindrome(123));
+        System.out.println(isPalindrome(-121));
+        System.out.println(isPalindrome(121));
+    }
+
 }
