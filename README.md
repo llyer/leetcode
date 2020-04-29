@@ -8,7 +8,7 @@
 
 # 教程：
 
-## 动态规划
+### 动态规划
 
 视频教程，一个UP做的，比较基础，但是讲的很好：
 
@@ -21,12 +21,19 @@
 <!-- 
     此处使用了 github 支持的锚点写法。
     教程地址：https://my.oschina.net/antsky/blog/1475173?utm_medium=referral
+    
+    如果要在  github 中使用锚点，使用下面这种写法就可以了
+    - [198](#198-house-robber)
  -->
-- [198](#198-house-robber)
+
 
 # 已解决问题
 
-title | title
+问题编号就是 leetcode 的问题编号，点击链接可以直接定位本仓库中对应问题的代码，
+
+代码内有一些注释，包含一些简单的问题解析和心路历程。
+
+问题 | Question
 --- | ---
 [001. Two Sum（两数之和）](./src/main/java/me/liluyang/leetcode/problem001/Solution.java) | [007. Reverse Integer（反转整数数字）](./src/main/java/me/liluyang/leetcode/problem007/Solution.java)
 [009. Palindrome Number（回文数字）](./src/main/java/me/liluyang/leetcode/problem009/Solution.java) | [013. Roman to Integer（罗马数字转整数）](./src/main/java/me/liluyang/leetcode/problem013/Solution.java)
