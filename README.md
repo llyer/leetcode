@@ -44,8 +44,8 @@
 [053. 最大子序和.java](src/main/java/me/liluyang/leetcode/Solution53.java) | [058. Length of Last Word](./src/main/java/me/liluyang/leetcode/problem058/Solution.java)
 [088. Merge Sorted Array](./src/main/java/me/liluyang/leetcode/problem088/Solution.java) | [112. Path Sum](./src/main/java/me/liluyang/leetcode/problem112/Solution.java)
 [125. Valid Palindrome](./src/main/java/me/liluyang/leetcode/problem125/Solution.java) | [155. Min Stack](./src/main/java/me/liluyang/leetcode/problem155/MinStack.java)
-[198. House Robber](./src/main/java/me/liluyang/leetcode/problem198/Solution.java) | [202](./src/main/java/me/liluyang/leetcode/Solution202.java)
-[204](./src/main/java/me/liluyang/leetcode/Solution204.java) | -
+[198. 打家劫舍](./src/main/java/me/liluyang/leetcode/problem198/Solution.java) | [202. 快乐数](./src/main/java/me/liluyang/leetcode/Solution202.java)
+[204. 计数质数](./src/main/java/me/liluyang/leetcode/Solution204.java) | -
 [290. Word Pattern](./src/main/java/me/liluyang/leetcode/problem290/Solution.java) | [344. Reverse String（反转字符串）](./src/main/java/me/liluyang/leetcode/problem344/Solution.java)
 [389. Find the Difference](./src/main/java/me/liluyang/leetcode/problem389/Solution.java) | [485](./src/main/java/me/liluyang/leetcode/Solution485.java)
 [507](./src/main/java/me/liluyang/leetcode/Solution507.java) | [559. Maximum Depth of N-ary Tree](./src/main/java/me/liluyang/leetcode/problem559/Solution.java)

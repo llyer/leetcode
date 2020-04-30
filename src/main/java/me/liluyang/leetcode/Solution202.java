@@ -6,22 +6,9 @@ import java.util.Set;
 public class Solution202 {
 
     /**
-     * 获取下一位数字
-     *
-     * @param n
-     * @return
-     */
-    int getNext(int n) {
-        int sum = 0;
-        while (n > 0) {
-            sum = sum + n%10;
-            n = n / 10;
-        }
-        return sum;
-    }
-
-    /**
-     * 数字判断是否是快乐数
+     * 题目：202. 快乐数
+     * 链接：https://leetcode-cn.com/problems/happy-number/
+     * 标签：哈希表，数学
      *
      * 1. 创建一个 HashSet 来放入所有的数字，如果 HashSet 中已经有该数字那么证明已经开始进入循环了。
      * 2. 如果数字跌落到1，那么证明就是快乐数
@@ -38,7 +25,13 @@ public class Solution202 {
         return false;
     }
 
-    public static void main(String[] args) {
-        System.out.println();
+    int getNext(int n) {
+        int sum = 0;
+        while (n > 0) {
+            sum = sum + n%10;
+            n = n / 10;
+        }
+        return sum;
     }
+
 }
