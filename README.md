@@ -39,7 +39,7 @@
 [011. 盛最多水的容器](./src/main/java/me/liluyang/leetcode/Solution11.java) | -
 [009. 回文数字](./src/main/java/me/liluyang/leetcode/problem009/Solution.java) | [013. 罗马数字转整数](./src/main/java/me/liluyang/leetcode/problem013/Solution.java)
 [014. 最长公共前缀](./src/main/java/me/liluyang/leetcode/problem014/Solution.java) | [020. Valid Parentheses](./src/main/java/me/liluyang/leetcode/problem020/Solution.java)
-[021. Merge Two Sorted Lists](./src/main/java/me/liluyang/leetcode/problem021/Solution.java) | [026. Remove Duplicates from Sorted Array](./src/main/java/me/liluyang/leetcode/problem026/Solution.java)
+[021. 合并两个有序链表](./src/main/java/me/liluyang/leetcode/Solution21.java) | [026. Remove Duplicates from Sorted Array](./src/main/java/me/liluyang/leetcode/problem026/Solution.java)
 [028. 实现strStr()](src/main/java/me/liluyang/leetcode/Solution28.java) | [035. 搜索插入位置.java](src/main/java/me/liluyang/leetcode/Solution35.java)
 [053. 最大子序和.java](src/main/java/me/liluyang/leetcode/Solution53.java) | [058. Length of Last Word](./src/main/java/me/liluyang/leetcode/problem058/Solution.java)
 [088. Merge Sorted Array](./src/main/java/me/liluyang/leetcode/problem088/Solution.java) | [112. Path Sum](./src/main/java/me/liluyang/leetcode/problem112/Solution.java)
