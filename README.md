@@ -41,8 +41,10 @@
 [014. 最长公共前缀](./src/main/java/me/liluyang/leetcode/problem014/Solution.java) | [020. Valid Parentheses](./src/main/java/me/liluyang/leetcode/problem020/Solution.java)
 [021. 合并两个有序链表](./src/main/java/me/liluyang/leetcode/Solution21.java) | [026. Remove Duplicates from Sorted Array](./src/main/java/me/liluyang/leetcode/problem026/Solution.java)
 [028. 实现strStr()](src/main/java/me/liluyang/leetcode/Solution28.java) | [035. 搜索插入位置.java](src/main/java/me/liluyang/leetcode/Solution35.java)
+[045. 跳跃游戏 II](./src/main/java/me/liluyang/leetcode/Solution45.java) | -
 [053. 最大子序和.java](src/main/java/me/liluyang/leetcode/Solution53.java) | [058. Length of Last Word](./src/main/java/me/liluyang/leetcode/problem058/Solution.java)
-[088. Merge Sorted Array](./src/main/java/me/liluyang/leetcode/problem088/Solution.java) | [112. Path Sum](./src/main/java/me/liluyang/leetcode/problem112/Solution.java)
+[088. Merge Sorted Array](./src/main/java/me/liluyang/leetcode/problem088/Solution.java) | [098. 验证二叉搜索树](./src/main/java/me/liluyang/leetcode/Solution98.java)
+[112. Path Sum](./src/main/java/me/liluyang/leetcode/problem112/Solution.java) | -
 [125. Valid Palindrome](./src/main/java/me/liluyang/leetcode/problem125/Solution.java) | [155. Min Stack](./src/main/java/me/liluyang/leetcode/problem155/MinStack.java)
 [198. 打家劫舍](./src/main/java/me/liluyang/leetcode/problem198/Solution.java) | [202. 快乐数](./src/main/java/me/liluyang/leetcode/Solution202.java)
 [204. 计数质数](./src/main/java/me/liluyang/leetcode/Solution204.java) | -

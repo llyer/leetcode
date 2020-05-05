@@ -1,11 +1,5 @@
 package me.liluyang.leetcode;
 
-/*
- * [53]
- * https://leetcode-cn.com/problems/maximum-subarray/description/
- *
- *
- */
 class Solution53 {
 
     /**
@@ -41,4 +35,3 @@ class Solution53 {
         return maxSofar;
     }
 }
-
