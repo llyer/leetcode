@@ -51,6 +51,7 @@
 [290. Word Pattern](./src/main/java/me/liluyang/leetcode/problem290/Solution.java) | [344. Reverse String（反转字符串）](./src/main/java/me/liluyang/leetcode/problem344/Solution.java)
 [389. Find the Difference](./src/main/java/me/liluyang/leetcode/problem389/Solution.java) | [485](./src/main/java/me/liluyang/leetcode/Solution485.java)
 [507](./src/main/java/me/liluyang/leetcode/Solution507.java) | [559. Maximum Depth of N-ary Tree](./src/main/java/me/liluyang/leetcode/problem559/Solution.java)
+[572. 另一个树的子树](./src/main/java/me/liluyang/leetcode/Solution572.java) | -
 [575. Distribute Candies](./src/main/java/me/liluyang/leetcode/problem575/Solution.java) | [589. N-ary Tree Preorder Traversal](./src/main/java/me/liluyang/leetcode/problem589/Solution.java)
 [590. N-ary Tree Postorder Traversal](./src/main/java/me/liluyang/leetcode/problem590/Solution.java) | [633](./src/main/java/me/liluyang/leetcode/Solution633.java)
 [617. Merge Two Binary Trees](./src/main/java/me/liluyang/leetcode/problem617/Solution.java) | [643](./src/main/java/me/liluyang/leetcode/Solution643.java) 
@@ -58,6 +59,8 @@
 [739. Daily Temperatures 每日温度](./src/main/java/me/liluyang/leetcode/problem739/Solution.java) | [771. Jewels and Stones 宝石和石头](./src/main/java/me/liluyang/leetcode/problem771/Solution.java)
 [781. Rabbits in Forest](./src/main/java/me/liluyang/leetcode/problem781/Solution.java) | [835](./src/main/java/me/liluyang/leetcode/Solution835.java)
 [860. Lemonade Change 柠檬水找零](./src/main/java/me/liluyang/leetcode/problem860/Solution.java)| [905. Sort Array By Parity 按奇偶排序数组](./src/main/java/me/liluyang/leetcode/problem905/Solution.java)
-[953. Verifying an Alien Dictionary 验证外星语词典](./src/main/java/me/liluyang/leetcode/problem953/Solution.java) | [1180](./src/main/java/me/liluyang/leetcode/Solution1180.java)
+[953. Verifying an Alien Dictionary 验证外星语词典](./src/main/java/me/liluyang/leetcode/problem953/Solution.java) | [983. 最低票价](./src/main/java/me/liluyang/leetcode/Solution983.java)
+
+[1180](./src/main/java/me/liluyang/leetcode/Solution1180.java)
 
 
