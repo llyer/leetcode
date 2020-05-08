@@ -1,4 +1,4 @@
-package me.liluyang.leetcode.problem088;
+package me.liluyang.leetcode;
 
 import java.util.Arrays;
 
@@ -7,7 +7,7 @@ import java.util.Arrays;
  * <p>
  * 合并两个有序数组，合并后仍然有序
  */
-public class Solution {
+public class Solution88 {
 
     public static void main(String[] args) {
 

@@ -5,23 +5,8 @@ package me.liluyang.leetcode.problem021;
  * <p>
  * 合并两个有序数组，合并后仍然有序
  */
-public class Solution {
+public class Solution21 {
 
-    public static void main(String[] args) {
-
-        ListNode l1 = new ListNode(1);
-        l1.next = new ListNode(2);
-        l1.next.next = new ListNode(4);
-
-        ListNode l2 = new ListNode(1);
-        l2.next = new ListNode(3);
-        l2.next.next = new ListNode(4);
-
-        System.out.println(l1.next.next.next);
-        System.out.println(l1.next.next.val);
-        System.out.println(l2.next.next.val);
-        System.out.println("---" + mergeTwoLists(l1, l2).next.next.val);
-    }
 
     /**
      * @param l1
@@ -70,5 +55,34 @@ public class Solution {
             }
         }
         return result;
+    }
+
+
+    public static void main(String[] args) {
+
+        ListNode l1 = new ListNode(1);
+        l1.next = new ListNode(2);
+        l1.next.next = new ListNode(4);
+
+        ListNode l2 = new ListNode(1);
+        l2.next = new ListNode(3);
+        l2.next.next = new ListNode(4);
+
+        System.out.println(l1.next.next.next);
+        System.out.println(l1.next.next.val);
+        System.out.println(l2.next.next.val);
+        System.out.println("---" + mergeTwoLists(l1, l2).next.next.val);
+    }
+
+
+    static class ListNode {
+
+        int val;
+
+        ListNode next;
+
+        ListNode(int x) {
+            val = x;
+        }
     }
 }

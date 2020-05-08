@@ -1,11 +1,11 @@
-package me.liluyang.leetcode.problem014;
+package me.liluyang.leetcode;
 
 /**
  * https://leetcode.com/problems/longest-common-prefix/
  * <p>
  * 计算给定字符串数组的最长相同前缀
  */
-public class Solution {
+public class Solution14 {
 
     public static void main(String[] args) {
 //        String[] strings = {"dog","racecar","car"};

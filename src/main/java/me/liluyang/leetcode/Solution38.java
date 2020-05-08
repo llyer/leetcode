@@ -1,8 +1,8 @@
-package me.liluyang.leetcode.problem038;
+package me.liluyang.leetcode;
 
 import java.util.HashMap;
 
-public class Solution {
+public class Solution38 {
 
     /**
      * 报数

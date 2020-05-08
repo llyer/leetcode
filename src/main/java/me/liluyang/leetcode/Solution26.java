@@ -1,4 +1,4 @@
-package me.liluyang.leetcode.problem026;
+package me.liluyang.leetcode;
 
 /**
  * https://leetcode.com/problems/remove-duplicates-from-sorted-array/
@@ -6,7 +6,7 @@ package me.liluyang.leetcode.problem026;
  * 移除数组中的重复元素
  *
  */
-public class Solution {
+public class Solution26 {
 
     public static void main(String[] args) {
         int[] nums = {0,0,1,1,1,2,2,3,3,4};

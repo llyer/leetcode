@@ -1,4 +1,4 @@
-package me.liluyang.leetcode.problem013;
+package me.liluyang.leetcode;
 
 /**
  * https://leetcode.com/problems/roman-to-integer/
@@ -11,7 +11,7 @@ package me.liluyang.leetcode.problem013;
  * X can be placed before L (50) and C (100) to make 40 and 90.
  * C can be placed before D (500) and M (1000) to make 400 and 900.
  */
-public class Solution {
+public class Solution13 {
 
     public static int romanToInt(String s) {
         int result = 0;

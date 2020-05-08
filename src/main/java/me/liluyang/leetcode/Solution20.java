@@ -1,4 +1,4 @@
-package me.liluyang.leetcode.problem020;
+package me.liluyang.leetcode;
 
 import java.util.Stack;
 
@@ -8,7 +8,7 @@ import java.util.Stack;
  *
  * 是否是有效的括号，数组为以下三种括号的组合 “{}” “[]” “()”
  */
-public class Solution {
+public class Solution20 {
 
     public static void main(String[] args) {
         char c = 'a';
