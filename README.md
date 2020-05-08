@@ -41,8 +41,7 @@
 [020. Valid Parentheses](./src/main/java/me/liluyang/leetcode/Solution20.java) | [021. 合并两个有序链表](./src/main/java/me/liluyang/leetcode/Solution21.java) | [026. Remove Duplicates from Sorted Array](./src/main/java/me/liluyang/leetcode/problem026/Solution.java)
 [026. 移除数组中的重复元素](./src/main/java/me/liluyang/leetcode/Solution26.java) | -
 [028. 实现strStr()](src/main/java/me/liluyang/leetcode/Solution28.java) | [035. 搜索插入位置.java](src/main/java/me/liluyang/leetcode/Solution35.java)
-[038. 外观数列](./src/main/java/me/liluyang/leetcode/Solution38.java) | -
-[045. 跳跃游戏 II](./src/main/java/me/liluyang/leetcode/Solution45.java) | -
+[038. 外观数列](./src/main/java/me/liluyang/leetcode/Solution38.java) | [045. 跳跃游戏 II](./src/main/java/me/liluyang/leetcode/Solution45.java)
 [053. 最大子序和.java](src/main/java/me/liluyang/leetcode/Solution53.java) | [058. Length of Last Word](./src/main/java/me/liluyang/leetcode/Solution58.java)
 [061. 旋转链表](./src/main/java/me/liluyang/leetcode/Solution61.java) | -
 [088. Merge Sorted Array](./src/main/java/me/liluyang/leetcode/Solution88.java) | [098. 验证二叉搜索树](./src/main/java/me/liluyang/leetcode/Solution98.java)
