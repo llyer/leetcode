@@ -47,7 +47,7 @@
 [061. 旋转链表](./src/main/java/me/liluyang/leetcode/Solution61.java) | -
 [088. Merge Sorted Array](./src/main/java/me/liluyang/leetcode/Solution88.java) | [098. 验证二叉搜索树](./src/main/java/me/liluyang/leetcode/Solution98.java)
 [112. Path Sum](./src/main/java/me/liluyang/leetcode/problem112/Solution.java) | -
-[125. Valid Palindrome](./src/main/java/me/liluyang/leetcode/problem125/Solution.java) | [155. Min Stack](./src/main/java/me/liluyang/leetcode/problem155/MinStack.java)
+[125. Valid Palindrome](./src/main/java/me/liluyang/leetcode/problem125/Solution.java) | [155. 最小栈](./src/main/java/me/liluyang/leetcode/Solution155.java)
 [180. 连续出现的数字](./src/main/java/me/liluyang/leetcode/Sql180.sql) | -
 [198. 打家劫舍](./src/main/java/me/liluyang/leetcode/problem198/Solution.java) | [202. 快乐数](./src/main/java/me/liluyang/leetcode/Solution202.java)
 [204. 计数质数](./src/main/java/me/liluyang/leetcode/Solution204.java) | -

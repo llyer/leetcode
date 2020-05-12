@@ -1,12 +1,12 @@
-package me.liluyang.leetcode.problem155;
+package me.liluyang.leetcode;
 
-public class MinStack {
+class Solution155 {
 
     // 常数时间内检索到最小元素
     private Node node;
 
     /** initialize your data structure here. */
-    public MinStack() {}
+    public Solution155() {}
 
     public void push(int x) {
         if (node == null) {
@@ -28,6 +28,8 @@ public class MinStack {
         return node.min;
     }
 
+    // 自定义的栈内的节点，每个节点都直接冗余一个最小元素，就很方便的处理了 getMin 的情况，不需要做任何的多余处理
+    // 用一个链表来实现栈，链表的头节点时栈顶，尾节点时栈尾
     class Node {
         int val;
         int min;
